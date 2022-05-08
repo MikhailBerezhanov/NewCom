@@ -11,4 +11,5 @@ Main features are:
 * Log file support 
 * List of connected devices
 * CR \ LF control
+* HEX \ ASCII format
 
